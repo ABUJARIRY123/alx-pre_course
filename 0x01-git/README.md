@@ -1,1 +1,1 @@
-This ismy first session on git and git hub
+Here we shall do bash, c languae and java script
