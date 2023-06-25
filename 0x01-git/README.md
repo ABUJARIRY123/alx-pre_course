@@ -1,1 +1,1 @@
-Here we shall do bash, c languae and java script
+This the main branch after we have removed the js directory 
