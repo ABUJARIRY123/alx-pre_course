@@ -1,1 +1,1 @@
-This the main branch after we have removed the js directory 
+This the main branch, it has been updated.
